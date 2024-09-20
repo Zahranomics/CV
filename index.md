@@ -1,4 +1,4 @@
-# Curriculum Vitae – Dr Mohamed Zahran
+# Dr Mohamed Zahran
 
 *Lecturer in Economics, University of Nottingham*  
 Sir Clive Granger Building, University Park Nottingham, NG7 2RD, United Kingdom  
