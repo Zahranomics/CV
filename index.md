@@ -1,7 +1,7 @@
 # Dr Mohamed Zahran
 
 *Lecturer in Economics, University of Nottingham*  
-Sir Clive Granger Building, University Park Nottingham, NG7 2RD, United Kingdom  
+University Park Nottingham, NG7 2RD, United Kingdom  
 ✉️ m.zahran.uk@gmail.com
 
 ## Profile
