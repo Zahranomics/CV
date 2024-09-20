@@ -1,4 +1,5 @@
-# ![Dr Mohamed Zahran](https://github.com/Zahranomics/Curriculum-Vitae/blob/main/assets/photo.jpg?raw=true)
+# Dr Mohamed Zahran
+![](https://github.com/Zahranomics/Curriculum-Vitae/blob/main/assets/photo.jpg?raw=true)
 
 *Lecturer in Economics, University of Nottingham*  
 University Park Nottingham, NG7 2RD, United Kingdom  
