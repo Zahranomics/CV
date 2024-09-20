@@ -2,7 +2,7 @@
 
 *Lecturer in Economics, University of Nottingham*  
 Sir Clive Granger Building, University Park Nottingham, NG7 2RD, United Kingdom  
-✉️ [m.zahran.uk@gmail.com]
+✉️ m.zahran.uk@gmail.com
 
 ## Profile
 A dedicated Assistant Professor of Economics with international professional experience in higher education and academic research. Specialising in fiscal policy, DSGE modelling, and applied time-series econometric forecasting, with a strong research agenda focusing on fiscal policy interventions and macroeconomic implications.
